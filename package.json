@@ -1,0 +1,11 @@
+{
+    "name": "airbrake-express-example"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+        "express": "2.4.3"
+      , "coffee-script": "1.1.2"
+      , "connect": ">= 1.5.2 < 2.0.0"
+      , "airbrake": "0.2.3"
+  }
+}
